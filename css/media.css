@@ -1,0 +1,36 @@
+@media only screen and (max-width: 806px){
+    aside{
+        left: -150%;
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 544px){
+    .head{
+        padding: 0 50px;
+    }
+}
+@media only screen and (max-width: 410px){
+    .head .burger_menu{
+        width: 90px;
+        height: 70px;
+    }
+    .head .burger_menu .one_menu{
+        height: 12px;
+    }
+    .head .burger_menu .two_menu{
+        height: 12px;
+    }
+    .head .burger_menu .three_menu{
+        height: 12px;
+    }
+    .key_2{
+        transform: translateY(-250%) rotate(-45deg);
+    }
+    head .img {
+        width: 80px;
+        height: 80px;
+    }
+    .head {
+        padding: 0 20px;
+    }
+}
